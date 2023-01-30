@@ -15,7 +15,11 @@
 
       # install all required packages from requirements.txt
       python -m pip install -r requirements.txt
-      
-4. Run the code
+
+4. Save Gyroscope CSV file in same folder
+
+5. Open the `kf_activity.py` file and update `line 12` with the CSV filename
+
+6. Run the code
       ```
       python kf_activity.py
