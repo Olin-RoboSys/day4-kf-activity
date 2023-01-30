@@ -6,7 +6,7 @@
 
 2. Clone this repository
       ```
-      git clone ...
+      git clone https://github.com/Olin-RoboSys/day4-kf-activity.git
       cd day4-kf-activity
 3. Install all required Python packages
       ```
